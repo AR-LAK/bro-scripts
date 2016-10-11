@@ -1,0 +1,4 @@
+[extract_files]
+url = https://github.com/phirelight/bro-scripts/scripts/files/extract_files
+tags = extract file, extract, analyze, file
+description = Set of scripts to extract certain files from the network traffic

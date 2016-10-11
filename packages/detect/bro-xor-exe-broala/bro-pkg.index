@@ -1,0 +1,4 @@
+[bro-xor-exe-broala]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/bro-xor-exe-broala
+tags = broala, xor, exe, executable, detect
+description = Plugin by Broala to detect Windows executable file that has been XOR'd

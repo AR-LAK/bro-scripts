@@ -1,0 +1,4 @@
+[bitcoin]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/bitcoin
+tags = bitcoin, mine, mining, crypto, currency
+description = Script to detect bitcoin mining

@@ -1,0 +1,4 @@
+[sandworm]
+url = https://github.com/phirelight/bro-scripts/scripts/intel/sandworm
+tags = apt, advanced persistent threat, sandworm
+description = Set of signatures to detect sandworm related activity

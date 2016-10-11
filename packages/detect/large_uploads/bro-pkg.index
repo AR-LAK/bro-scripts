@@ -1,0 +1,4 @@
+[large_uploads]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/large_uploads
+tags = large upload, file upload, upload
+description = Policy to alert on large uploads to the Internet

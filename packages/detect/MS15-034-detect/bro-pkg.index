@@ -1,0 +1,4 @@
+[MS15-034-detect]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/MS15-034-detect
+tags = microsoft, windows, MS15-034, buffer, overload, exploit
+description = Script to detect MS15-034 exploit
