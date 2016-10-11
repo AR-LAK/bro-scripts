@@ -1,0 +1,4 @@
+[persistent_talkers]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/persistent_talkers
+tags = persistent talkers, communication
+description = Policy to detect hosts that seem to be in persistent conversations with each other

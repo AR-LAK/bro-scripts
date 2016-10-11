@@ -1,0 +1,4 @@
+[add-mac-to-conn]
+url = https://github.com/phirelight/bro-scripts/scripts/conn/add-mac-to-conn
+tags = mac, conn, conn.log, extend
+description = Script to add MAC address to conn.log by keeping track of DHCP requests

@@ -1,0 +1,4 @@
+[active_pdf_content]
+url = https://github.com/phirelight/bro-scripts/scripts/files/active_pdf_content
+tags = pdf, active content, exploit, javascript
+description = Script to detect active content in PDF documents
