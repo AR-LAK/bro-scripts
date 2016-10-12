@@ -1,0 +1,4 @@
+[fsf-scan]
+url = https://github.com/phirelight/bro-scripts/scripts/files/fsf-scan
+tags = fsf, scan, analyze, analyzer, scan
+description = Script to run external FSF-analyzer on certain files

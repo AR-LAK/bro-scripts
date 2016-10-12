@@ -1,0 +1,4 @@
+[angler_goon]
+url = https://github.com/phirelight/bro-scripts/scripts/intel/angler_goon
+tags = angler, goon, malware, virus, intel
+description = Set of signatures to detect Angler exploit kits

@@ -1,0 +1,4 @@
+[local_basic_auth_email]
+url = https://github.com/phirelight/bro-scripts/scripts/http/local_basic_auth_email
+tags = http, basic auth, email
+description = Script to notify with email if local client is detected using http basic auth

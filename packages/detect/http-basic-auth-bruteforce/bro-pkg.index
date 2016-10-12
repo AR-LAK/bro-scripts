@@ -1,0 +1,4 @@
+[http-basic-auth-bruteforce]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/http-basic-auth-bruteforce
+tags = http, basic auth, bruteforce, username
+description = Script to detect HTTP basic auth bruteforcing

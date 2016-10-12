@@ -1,0 +1,4 @@
+[roam]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/roam
+tags = dhcp, mac, ip to mac, arp
+description = Script to collect ip-MAC mappings from ARP replies

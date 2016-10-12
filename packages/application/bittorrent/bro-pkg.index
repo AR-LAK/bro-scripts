@@ -1,0 +1,4 @@
+[bittorrent]
+url = https://github.com/phirelight/bro-scripts/scripts/application/bittorrent
+tags = bittorrent, torrent
+description = Script and set of signatures to identify Bittorrent connections

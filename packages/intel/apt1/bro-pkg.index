@@ -1,0 +1,4 @@
+[apt1]
+url = https://github.com/phirelight/bro-scripts/scripts/intel/apt1
+tags = apt, advanced persistent threat, signature, intel
+description = Set of signatures to detect activity related to Mandiant APT1 report

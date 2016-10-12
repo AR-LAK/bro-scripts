@@ -1,0 +1,4 @@
+[rfd]
+url = https://github.com/phirelight/bro-scripts/scripts/detect/rfd
+tags = reflected file download, rfd
+description = Script to detect reflected file downloads

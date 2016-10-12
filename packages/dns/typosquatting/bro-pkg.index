@@ -1,0 +1,4 @@
+[dns-typosquatting]
+url = https://github.com/phirelight/bro-scripts/scripts/dns/dns-typosquatting
+tags = dns, typosquatting, typo, phishing
+description = Script to find typosquatted domains in DNS requests
