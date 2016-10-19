@@ -18,7 +18,7 @@ The scripts dir contains the actual Bro scripts. Each script/set of scripts cont
 
 #### The package manager 101
 
-Currently the Bro package manager needs one repository that contains the package index files. These are the ones you can find in the **packages** dir. Secondly right now the packages need each to be hosted in its own repo. This is because of the current design choice to keep track of versioning via Git tags. So how do you get your own package manager working?
+Currently the Bro package manager needs one repository that contains the package index files. These are the ones you can find in the **packages** dir. Secondly right now the packages need each to be hosted in its own repo. This is because of the current design choice to keep track of versioning via Git tags. **All of the packages are linked to package repos right now so you can use this repo as the index repo** Optionally if you wish to host everything yourself you can do the following:
 
 1. Create a new repository and add the **packages** dir in it
 
