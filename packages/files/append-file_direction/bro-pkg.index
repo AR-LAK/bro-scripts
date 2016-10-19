@@ -1,4 +1,4 @@
-[append_file_direction]
-url = https://github.com/phirelight/bro-scripts/scripts/files/append_file_direction
+[append-file-direction]
+url = https://github.com/phirelight/bro-append-file-direction
 tags = files, files.log, direction, extend
 description = Script to append file transfer direction to files.log

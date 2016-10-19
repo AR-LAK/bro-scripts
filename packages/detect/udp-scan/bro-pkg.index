@@ -1,0 +1,4 @@
+[udp-scan]
+url = https://github.com/phirelight/bro-udp-scan
+tags = udp, scan, scanner, recon
+description = Policy to detect possible UDP scans in the network

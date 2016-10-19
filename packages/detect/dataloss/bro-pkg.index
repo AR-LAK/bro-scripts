@@ -1,4 +1,4 @@
 [dataloss]
-url = https://github.com/phirelight/bro-scripts/scripts/detect/dataloss
+url = https://github.com/phirelight/bro-dataloss
 tags = dataloss, detect, exfiltration
 description = Script to detect excessive amounts of outbound data

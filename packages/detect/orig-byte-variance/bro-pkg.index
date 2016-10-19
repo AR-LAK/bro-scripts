@@ -1,0 +1,4 @@
+[orig-byte-variance]
+url = https://github.com/phirelight/bro-orig-byte-variance
+tags = strange behavior, byte, variance, exfiltration
+description = Script to detect low variance in originating bytes

@@ -1,0 +1,4 @@
+[bolo-dhcp]
+url = https://github.com/phirelight/bro-bolo-dhcp
+tags = mac, blacklist, dhcp, detect
+description = Script to look for certain MAC addresses in DHCP requests

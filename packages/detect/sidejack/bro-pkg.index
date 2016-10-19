@@ -1,4 +1,4 @@
 [sidejack]
-url = https://github.com/phirelight/bro-scripts/scripts/detect/sidejack
+url = https://github.com/phirelight/bro-sidejack
 tags = sidejack, cookie, exploit, attack
 description = Script to detect sidejack or cookie re-use attacks

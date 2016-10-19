@@ -1,0 +1,4 @@
+[bro-virustotal-check]
+url = https://github.com/phirelight/bro-virustotal-check
+tags = virustotal, hash
+description = Policy for checking an observed file's hash through VirusTotal

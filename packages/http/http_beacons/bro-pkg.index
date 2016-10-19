@@ -1,4 +1,0 @@
-[http_beacons]
-url = https://github.com/phirelight/bro-scripts/scripts/http/http_beacons
-tags = http, beacon, beacons, behavior, cnc, botnet
-description = Script to detect beacon-like behavior to identify CnC servers

@@ -1,0 +1,4 @@
+[fflux-dns]
+url = https://github.com/phirelight/bro-fflux-dns
+tags = dns, fflux, fast flux
+description = Script to detect fast flux DNS requests

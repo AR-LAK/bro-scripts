@@ -1,4 +1,0 @@
-[meterpreter_transfer]
-url = https://github.com/phirelight/bro-scripts/scripts/detect/meterpreter_transfer
-tags = meterpreter, metasploit
-description = Policy to detect Metasploit's meterpreter payload transfer

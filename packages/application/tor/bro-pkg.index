@@ -1,4 +1,4 @@
 [tor]
-url = https://github.com/phirelight/bro-scripts/scripts/application/tor
+url = https://github.com/phirelight/bro-tor
 tags = tor, onion
 description = Set of scripts to provide new tor.log for all Tor involved activity

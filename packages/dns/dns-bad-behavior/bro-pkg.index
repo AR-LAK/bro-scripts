@@ -1,0 +1,4 @@
+[dns-bad-behavior]
+url = https://github.com/phirelight/bro-dns-bad-behavior
+tags = dns, behavior
+description = Script to detect odd or suspicious DNS traffic

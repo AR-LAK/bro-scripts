@@ -1,0 +1,4 @@
+[covert-tcp-steganalysis]
+url = https://github.com/phirelight/bro-covert-tcp-steganalysis
+tags = tcp, covert, steganalysis, exfiltration
+description = Set of scripts to detect covert information exfiltration via TCP

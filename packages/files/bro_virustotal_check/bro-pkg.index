@@ -1,4 +1,0 @@
-[bro_virustotal_check]
-url = https://github.com/phirelight/bro-scripts/scripts/files/bro_virustotal_check
-tags = virustotal, hash
-description = Policy for checking an observed file's hash through VirusTotal

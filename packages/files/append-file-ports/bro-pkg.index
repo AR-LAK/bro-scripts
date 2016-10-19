@@ -1,0 +1,4 @@
+[append-file-ports]
+url = https://github.com/phirelight/bro-append-file-ports
+tags = files, files.log, ports, protocol, extend
+description = Script to append ports and protocols to files.log

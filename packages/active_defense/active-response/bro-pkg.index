@@ -1,4 +1,4 @@
 [active-response]
-url = https://github.com/phirelight/bro-scripts/scripts/active_defense/active-response
+url = https://github.com/phirelight/bro-active-response
 tags = active defense, response, block
 description = Active defense script to run a third party script to block bad IP

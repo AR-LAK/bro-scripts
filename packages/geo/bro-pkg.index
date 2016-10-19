@@ -1,4 +1,4 @@
 [geo]
-url = https://github.com/phirelight/bro-scripts/scripts/geo/geo
+url = https://github.com/phirelight/bro-geo
 tags = geolocate, asn, geo, coordinates, gps
 description = Set of scripts to geolocate different connections
