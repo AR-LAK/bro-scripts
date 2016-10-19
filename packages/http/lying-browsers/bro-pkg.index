@@ -1,4 +1,4 @@
 [lying-browsers]
-url = https://github.com/phirelight/bro-scripts/scripts/http/lying_browsers
+url = https://github.com/phirelight/bro-lying-browsers
 tags = http, browser, user-agent, spoofing
 description = Script to detect browsers that might be spoofing their user-agents

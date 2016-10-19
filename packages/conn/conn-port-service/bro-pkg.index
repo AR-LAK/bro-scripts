@@ -1,4 +1,4 @@
 [conn-port-service]
-url = https://github.com/phirelight/bro-scripts/scripts/conn/conn-port-service
+url = https://github.com/phirelight/bro-conn-port-service
 tags = conn, port, name, conn.log, extend
 description = Script to add a field 'port_service' to conn.log with the name of the port

@@ -1,0 +1,4 @@
+[http-post-bruteforce]
+url = https://github.com/phirelight/bro-http-post-bruteforce
+tags = http, post, bruteforce
+description = Script to http post request bruteforcing

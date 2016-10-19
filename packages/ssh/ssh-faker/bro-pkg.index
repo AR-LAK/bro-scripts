@@ -1,4 +1,4 @@
 [ssh-faker]
-url = https://github.com/phirelight/bro-scripts/scripts/ssh/ssh-faker
+url = https://github.com/phirelight/bro-ssh-faker
 tags = ssh, fake, spoof, recon
 description = Script to detect non-local hosts connecting to port 22 and not using SSH 

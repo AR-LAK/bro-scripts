@@ -1,0 +1,4 @@
+[http-host]
+url = https://github.com/phirelight/bro-http-host
+tags = http, host, http.log
+description = Script to change 'host' field in http.log to 'http_host'

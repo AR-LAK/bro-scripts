@@ -1,4 +1,0 @@
-[icmp_variance]
-url = https://github.com/phirelight/bro-scripts/scripts/detect/icmp_variance
-tags = icmp, covert, steganalysis, exfiltration
-description = Script to detect odd ICMP variance to spot possible ICMP tunnels

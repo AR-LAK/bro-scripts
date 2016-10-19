@@ -1,4 +1,4 @@
 [bro-shellshock-broala]
-url = https://github.com/phirelight/bro-scripts/scripts/detect/bro-shellshock-broala
+url = https://github.com/phirelight/bro-shellshock-broala
 tags = broala, shellshock, cve-2014-6271, bash
 description = Script by Broala to detect shellshock

@@ -1,0 +1,4 @@
+[typosquat-email]
+url = https://github.com/phirelight/bro-typosquat-email
+tags = smtp, typosquat, email, phishing
+description = Script to look for typosquatted domains in emails

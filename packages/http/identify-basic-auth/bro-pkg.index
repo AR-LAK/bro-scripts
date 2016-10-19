@@ -1,0 +1,4 @@
+[identify-basic-auth]
+url = https://github.com/phirelight/bro-identify-basic-auth
+tags = http, basic auth, 
+description = Script to detect servers that use HTTP Basic Auth
