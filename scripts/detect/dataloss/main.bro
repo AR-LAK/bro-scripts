@@ -1,4 +1,3 @@
-#source: https://github.com/hosom/bro-dataloss.git
 
 module DataLoss;
 
